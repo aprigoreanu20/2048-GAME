@@ -31,8 +31,8 @@ in order to play:
 * W: up move
 * S: down move
 
-In order to quit the game, the player must press Q, and the menu will be displayed. For
-continuing, the player must choose the RESUME option from the menu.\
+In order to quit the game, the player must press Q, and the menu will be displayed. To continue,
+the player must choose the RESUME option from the menu.\
 After each move, a random value of either 2 or 4 appears in one of the free cells.
 The game starts with 2 cells, and the player can slide the tiles in order to merge cells
 that contain the same value, and thus create tiles with greater numbers.\
